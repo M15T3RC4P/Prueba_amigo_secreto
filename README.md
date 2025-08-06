@@ -20,7 +20,7 @@ Este proyecto es una aplicación web simple e interactiva que permite a los usua
 
 ---
 
-## 🚀 ¿Cómo usar esta aplicación?
+## 🚀 ¿Cómo usarlo?
 
 1. Escribe el nombre de un amigo en el campo de texto.
 2. Haz clic en **"Añadir"** para agregarlo a la lista.
